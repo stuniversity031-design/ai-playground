@@ -1,0 +1,13 @@
+{
+  "name": "aura-backend",
+  "version": "1.0.0",
+  "description": "Serverless API backend for AURA — Crestivo's AI Lead Intelligence Core",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "nodemailer": "^6.9.16"
+  }
+}
